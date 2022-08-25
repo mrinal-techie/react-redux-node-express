@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "username": "Dhoni",
+      "city": "Ranchi",
+      "id": 1
+    },
+    {
+      "username": "Rahul Dravid",
+      "city": "Bangalore",
+      "id": 2
+    },
+    {
+      "username": "Mrinal Das",
+      "city": "Shoja",
+      "id": 3
+    },
+    {
+      "username": "Dhara Shah",
+      "city": "Sur",
+      "id": 4
+    },
+    {
+      "username": "Bijoy Das",
+      "city": "Madhubani",
+      "id": 5
+    },
+    {
+      "username": "Raj",
+      "city": "Mumbai",
+      "id": 6
+    },
+    {
+      "username": "Mrinal Das",
+      "city": "Mumbai",
+      "id": 7
+    }
+  ]
+}

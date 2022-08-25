@@ -1,0 +1,47 @@
+*{
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+}
+
+.navbar{
+  background-color: black;
+  color: white;
+  display: flex;
+  justify-content: end;
+  align-items: center;
+}
+
+.Home{
+  margin-right: auto;
+  margin-left: 10px;
+}
+
+.navbar ul{
+  display: flex;
+  list-style: none; 
+}
+
+.navbar li{
+  margin: 10px;
+}
+
+form
+{
+  background-color: aqua;
+  width: 200px;
+  margin:20px auto;
+  padding: 15px;
+}
+
+li{
+  color: white;
+  text-decoration: none;
+}
+
+.tabledesign{
+  background-color: aqua;
+  width: 500px;
+  margin: 20px auto;
+  text-align: center;
+}
