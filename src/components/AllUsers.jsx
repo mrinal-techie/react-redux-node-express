@@ -9,6 +9,7 @@ function AllUsers() {
     console.log('inside useffect');
     dispatch(loadUsers());
   }, []);
+  
   const data = useSelector((state) => state.data);
   console.log('data fetched from store is ',data);
   const users=data.users;

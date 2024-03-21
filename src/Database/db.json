@@ -17,7 +17,7 @@
     },
     {
       "username": "Dhara Shah",
-      "city": "Sur",
+      "city": "Surat",
       "id": 4
     },
     {
@@ -31,9 +31,14 @@
       "id": 6
     },
     {
-      "username": "Mrinal Das",
-      "city": "Mumbai",
+      "username": "Krishika",
+      "city": " Jammu",
       "id": 7
+    },
+    {
+      "username": "Kenisha",
+      "city": " Bangalore",
+      "id": 8
     }
   ]
 }
